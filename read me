@@ -1,0 +1,6 @@
+The Stack follows the Last In, First Out (LIFO) principle. The program reads
+each character and compares it with the top of the stack. If the characters are the same, 
+it removes the top character using pop(). Otherwise, it adds the character using push(). Finally,
+StringBuilder creates the remaining string in the original order.
+Time Complexity: O(n).
+Space Complexity: O(n).
